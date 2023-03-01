@@ -1,0 +1,51 @@
+h1{
+text align:center;
+}
+.col-1{
+float:left;
+width: 30%;
+}
+
+h2{
+color: white;
+background-color:grey;
+font:20px sans-serif;
+position:static;
+top:0;
+left:0;
+}
+
+<table border = 1>
+table{
+margin-left :10px;
+border : 1px solid blue;
+border-collapse:collapse;
+}
+  
+th{
+background:light blue;
+
+}
+
+th:nth-child(1){
+width:5%;
+}
+
+th:nth-child(2){
+width:20%;
+}
+
+th:nth-child(3){
+width:25%;
+}
+
+th:nth-child(4){
+width:20%;
+}
+
+th:nth-child(5){
+width:20%;
+}
+
+
+
